@@ -1,2 +1,2 @@
 # Leetcode
-code on leetcode
+Persist coding on leetcode
